@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "564e148f-88ac-48c4-b329-65dab788b441",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "564e148f-88ac-48c4-b329-65dab788b441@6c48a",
+      "displayName": "equip_conveyor_oven",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "564e148f-88ac-48c4-b329-65dab788b441",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "564e148f-88ac-48c4-b329-65dab788b441@f9941",
+      "displayName": "equip_conveyor_oven",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": 0,
+        "offsetY": -38,
+        "trimX": 12,
+        "trimY": 96,
+        "width": 496,
+        "height": 124,
+        "rawWidth": 520,
+        "rawHeight": 240,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -248,
+            -62,
+            0,
+            248,
+            -62,
+            0,
+            -248,
+            62,
+            0,
+            248,
+            62,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            12,
+            144,
+            508,
+            144,
+            12,
+            20,
+            508,
+            20
+          ],
+          "nuv": [
+            0.023076923076923078,
+            0.08333333333333333,
+            0.9769230769230769,
+            0.08333333333333333,
+            0.023076923076923078,
+            0.6,
+            0.9769230769230769,
+            0.6
+          ],
+          "minPos": [
+            -248,
+            -62,
+            0
+          ],
+          "maxPos": [
+            248,
+            62,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "564e148f-88ac-48c4-b329-65dab788b441@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "564e148f-88ac-48c4-b329-65dab788b441@6c48a"
+  }
+}

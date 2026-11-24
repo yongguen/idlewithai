@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="200" viewBox="0 0 160 200">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#FFEAC2"/><stop offset="1" stop-color="#FFF9EA"/></linearGradient>
+<linearGradient id="button" x2="0" y2="1"><stop stop-color="#FFB347"/><stop offset="1" stop-color="#ED7830"/></linearGradient>
+<linearGradient id="oven" x2="0" y2="1"><stop stop-color="#47505C"/><stop offset="1" stop-color="#242B36"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#FFD35A" stop-opacity=".42"/><stop offset="1" stop-color="#FFD35A" stop-opacity="0"/></radialGradient></defs><path d="M80 190Q28 155 48 105Q63 65 70 23Q121 71 126 106Q157 66 146 46Q175 126 128 185Z" fill="#ED7830" /><path d="M83 181Q63 153 79 117Q97 89 91 73Q135 130 116 178Z" fill="#FFE9A6" /></svg>

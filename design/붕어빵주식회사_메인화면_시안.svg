@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1920" viewBox="0 0 1080 1920">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#FFEAC2"/><stop offset="1" stop-color="#FFF9EA"/></linearGradient>
+    <linearGradient id="button" x2="0" y2="1"><stop stop-color="#FFB347"/><stop offset="1" stop-color="#ED7830"/></linearGradient>
+    <linearGradient id="oven" x2="0" y2="1"><stop stop-color="#47505C"/><stop offset="1" stop-color="#242B36"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#854A20" flood-opacity=".16"/></filter>
+    <g id="bun"><ellipse cx="0" cy="0" rx="58" ry="38" fill="#A95023"/><ellipse cx="0" cy="-6" rx="52" ry="32" fill="#E8A54B"/><path d="M-46 1Q-18-22 13-4Q29-22 50-1" fill="none" stroke="#FBD184" stroke-width="8" stroke-linecap="round"/><circle cx="-16" cy="-11" r="4" fill="#703721"/><path d="M45 0l32-20v40z" fill="#DA8B3D"/><path d="M-5 6q13 14 30 0" fill="none" stroke="#A65E2C" stroke-width="5" stroke-linecap="round"/></g>
+    <g id="spark"><path d="M0-18V18M-18 0H18" stroke="#FFE9A6" stroke-width="7" stroke-linecap="round"/></g>
+    <style>
+      text{font-family:'Apple SD Gothic Neo','Noto Sans CJK KR',sans-serif;fill:#432A1C}
+      .strong{font-weight:800}.medium{font-weight:700}.small{font-size:30px}.muted{fill:#856E5A}.white{fill:#fff}
+    </style>
+  </defs>
+  <rect width="1080" height="1920" fill="#FFF7E8"/>
+  <rect width="1080" height="1110" fill="url(#sky)"/>
+  <circle cx="884" cy="348" r="130" fill="#FFD89B" opacity=".65"/>
+  <path d="M0 904Q240 842 540 910T1080 886V1110H0" fill="#EED3A5"/>
+  <path d="M0 997Q280 938 530 1005T1080 980V1140H0" fill="#DCB987"/>
+
+  <!-- Safe-area header -->
+  <text x="58" y="96" font-size="50" class="strong">붕어빵 주식회사</text>
+  <rect x="847" y="50" width="170" height="67" rx="33" fill="#FFF9EC" stroke="#E7BF82" stroke-width="3"/>
+  <text x="884" y="96" font-size="31" class="medium">⚙ 설정</text>
+  <rect x="54" y="145" width="972" height="143" rx="32" fill="#FFFDF6" filter="url(#shadow)"/>
+  <circle cx="119" cy="216" r="43" fill="#FFE6A6"/><text x="98" y="235" font-size="45">₩</text>
+  <text x="184" y="197" font-size="29" class="muted">현재 매출</text>
+  <text x="184" y="252" font-size="55" class="strong">12,480</text>
+  <path d="M650 176v84" stroke="#EEDCC3" stroke-width="3"/>
+  <text x="697" y="197" font-size="29" class="muted">초당 매출</text>
+  <text x="697" y="251" font-size="48" class="strong">+128</text>
+
+  <!-- Progress -->
+  <rect x="54" y="316" width="972" height="145" rx="30" fill="#743F26"/>
+  <text x="90" y="372" font-size="30" class="white medium">2 / 11  포장마차</text>
+  <text x="777" y="372" font-size="28" class="white">다음: 구멍가게</text>
+  <rect x="91" y="400" width="895" height="27" rx="14" fill="#AA7452"/>
+  <rect x="91" y="400" width="570" height="27" rx="14" fill="#FFCA66"/>
+  <text x="921" y="419" font-size="23" class="white strong">64%</text>
+
+  <!-- Street scene -->
+  <path d="M0 782h1080v240H0" fill="#F7E5C5"/>
+  <path d="M0 949h1080v130H0" fill="#D5A674"/>
+  <path d="M0 1008h1080v24H0" fill="#BD895E"/>
+  <rect x="56" y="725" width="270" height="170" rx="28" fill="#F9F3E5" stroke="#DFC8A4" stroke-width="6"/>
+  <text x="82" y="779" font-size="29" class="medium">동네 손님</text>
+  <text x="82" y="829" font-size="31" class="strong">“따끈해요!”</text>
+  <circle cx="149" cy="940" r="48" fill="#7B4C36"/><circle cx="125" cy="932" r="11" fill="#F4C28D"/><circle cx="169" cy="932" r="11" fill="#F4C28D"/>
+  <rect x="95" y="978" width="108" height="66" rx="36" fill="#6F8C7C"/>
+
+  <!-- Stall structure -->
+  <rect x="300" y="645" width="695" height="300" rx="28" fill="#FBE7C4" stroke="#BD7648" stroke-width="8" filter="url(#shadow)"/>
+  <path d="M272 648l79-142h589l79 142z" fill="#E9643C" stroke="#AE4C31" stroke-width="8"/>
+  <path d="M351 506l-19 142h94l9-142zm170 0l-8 142h96l8-142zm174 0l8 142h96l-19-142z" fill="#FFF2D9"/>
+  <rect x="447" y="528" width="388" height="73" rx="29" fill="#742F25"/>
+  <text x="492" y="578" font-size="43" class="white strong">붕어빵 포장마차</text>
+  <rect x="360" y="713" width="552" height="211" rx="26" fill="#A95A34"/>
+  <rect x="392" y="742" width="489" height="139" rx="23" fill="url(#oven)"/>
+  <rect x="414" y="762" width="444" height="101" rx="15" fill="#55443E"/>
+  <circle cx="517" cy="817" r="71" fill="#ED9850" opacity=".54"/><circle cx="729" cy="817" r="71" fill="#ED9850" opacity=".54"/>
+  <use href="#bun" transform="translate(519 818) scale(.79)"/><use href="#bun" transform="translate(727 818) scale(.79)"/>
+  <rect x="402" y="904" width="470" height="79" rx="17" fill="#7E3D29"/>
+  <text x="472" y="956" font-size="41" class="white strong">매일 갓 구운 붕어빵</text>
+  <circle cx="394" cy="1000" r="29" fill="#4F3C37"/><circle cx="857" cy="1000" r="29" fill="#4F3C37"/>
+
+  <!-- Worker and production feedback -->
+  <circle cx="919" cy="696" r="41" fill="#F3C28F"/><path d="M882 679q36-57 75 0" fill="#684132"/>
+  <rect x="874" y="731" width="90" height="109" rx="33" fill="#F4A845"/>
+  <path d="M887 773l-72 56" stroke="#F3C28F" stroke-width="23" stroke-linecap="round"/>
+  <text x="663" y="706" font-size="37" fill="#BA4B21" class="strong">+24</text>
+  <use href="#spark" transform="translate(613 726) scale(1.2)"/>
+  <use href="#spark" transform="translate(770 677) scale(.7)"/>
+
+  <!-- Production action -->
+  <rect x="54" y="1097" width="972" height="151" rx="33" fill="url(#button)" filter="url(#shadow)"/>
+  <use href="#bun" transform="translate(151 1171) scale(.6)"/>
+  <text x="297" y="1178" font-size="52" class="white strong">붕어빵 한 판 굽기</text>
+  <text x="883" y="1181" font-size="32" class="white medium">+24</text>
+  <text x="76" y="1303" font-size="29" class="muted">알바가 자동으로 굽는 중 · 직접 구우면 매출 추가</text>
+
+  <!-- Upgrades -->
+  <text x="57" y="1377" font-size="42" class="strong">오늘의 투자</text>
+  <text x="778" y="1374" font-size="27" class="muted">매출로 강화</text>
+  <rect x="54" y="1410" width="470" height="222" rx="30" fill="#FFFFFF" stroke="#F0D6AF" stroke-width="3" filter="url(#shadow)"/>
+  <circle cx="112" cy="1473" r="38" fill="#FFE6BC"/><text x="92" y="1491" font-size="39">♨</text>
+  <text x="166" y="1483" font-size="37" class="strong">화덕 강화</text>
+  <text x="90" y="1544" font-size="28" class="muted">굽는 속도 +20%</text>
+  <rect x="82" y="1568" width="409" height="43" rx="21" fill="#FFEEE0"/><text x="219" y="1599" font-size="28" class="strong">₩ 1,200</text>
+  <rect x="556" y="1410" width="470" height="222" rx="30" fill="#FFFFFF" stroke="#F0D6AF" stroke-width="3" filter="url(#shadow)"/>
+  <circle cx="614" cy="1473" r="38" fill="#FFE6BC"/><text x="592" y="1491" font-size="39">★</text>
+  <text x="668" y="1483" font-size="37" class="strong">레시피 개발</text>
+  <text x="592" y="1544" font-size="28" class="muted">한 판 수익 +25%</text>
+  <rect x="584" y="1568" width="409" height="43" rx="21" fill="#FFEEE0"/><text x="723" y="1599" font-size="28" class="strong">₩ 1,800</text>
+
+  <!-- Prestige and navigation -->
+  <rect x="54" y="1660" width="972" height="110" rx="29" fill="#FFF0CC" stroke="#E7C884" stroke-width="3"/>
+  <text x="93" y="1722" font-size="36" class="strong">프랜차이즈 확장</text>
+  <text x="713" y="1720" font-size="26" class="medium">대형가게에서 해금 →</text>
+  <rect x="0" y="1800" width="1080" height="120" fill="#FFFDF7"/>
+  <path d="M0 1800h1080" stroke="#EBD8BA" stroke-width="3"/>
+  <circle cx="148" cy="1864" r="10" fill="#E98532"/><text x="175" y="1876" font-size="31" class="strong">매장</text>
+  <circle cx="447" cy="1864" r="10" fill="#BCA996"/><text x="474" y="1876" font-size="31" class="muted">성장</text>
+  <circle cx="754" cy="1864" r="10" fill="#BCA996"/><text x="781" y="1876" font-size="31" class="muted">본사</text>
+  <rect x="126" y="1896" width="169" height="7" rx="4" fill="#E98532"/>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "name": "idle",
+  "uuid": "e9f70c52-26c3-484b-b229-ffde06e422aa",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "scripts": {
+    "test": "node --no-warnings --import ./tests/register.mjs --test tests/"
+  }
+}

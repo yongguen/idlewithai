@@ -1,0 +1,722 @@
+[
+  {
+    "id": "bg_sky_day",
+    "folder": "bg",
+    "width": 1080,
+    "height": 1920,
+    "opaque": true,
+    "priority": "P0",
+    "basis": "design main-screen sky gradient and sun"
+  },
+  {
+    "id": "bg_street_s1",
+    "folder": "bg",
+    "width": 1080,
+    "height": 640,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept street bands; stage 1 original additions"
+  },
+  {
+    "id": "bg_street_s2",
+    "folder": "bg",
+    "width": 1080,
+    "height": 640,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept street bands; stage 2 original additions"
+  },
+  {
+    "id": "bg_street_s3",
+    "folder": "bg",
+    "width": 1080,
+    "height": 640,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept street bands; stage 3 original additions"
+  },
+  {
+    "id": "bg_street_s4",
+    "folder": "bg",
+    "width": 1080,
+    "height": 640,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept street bands; stage 4 original additions"
+  },
+  {
+    "id": "bg_street_s5",
+    "folder": "bg",
+    "width": 1080,
+    "height": 640,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept street bands; stage 5 original additions"
+  },
+  {
+    "id": "store_s1_cart",
+    "folder": "store",
+    "width": 640,
+    "height": 460,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "cart derived from concept oven and wheels"
+  },
+  {
+    "id": "store_s2_stall",
+    "folder": "store",
+    "width": 720,
+    "height": 560,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept stall roof, oven, wheels and bun"
+  },
+  {
+    "id": "store_s3_shop",
+    "folder": "store",
+    "width": 860,
+    "height": 620,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original stage 3 storefront based on concept palette"
+  },
+  {
+    "id": "store_s4_local",
+    "folder": "store",
+    "width": 960,
+    "height": 700,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original stage 4 storefront based on concept palette"
+  },
+  {
+    "id": "store_s5_large",
+    "folder": "store",
+    "width": 1040,
+    "height": 720,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original stage 5 storefront based on concept palette"
+  },
+  {
+    "id": "bg_roadmap_silhouette_s6",
+    "folder": "bg",
+    "width": 360,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "bg_roadmap_silhouette_s7",
+    "folder": "bg",
+    "width": 360,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "bg_roadmap_silhouette_s8",
+    "folder": "bg",
+    "width": 360,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "bg_roadmap_silhouette_s9",
+    "folder": "bg",
+    "width": 360,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "bg_roadmap_silhouette_s10",
+    "folder": "bg",
+    "width": 360,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "bg_roadmap_silhouette_s11",
+    "folder": "bg",
+    "width": 360,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "bread_batter",
+    "folder": "bread",
+    "width": 192,
+    "height": 144,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept bun symbol redrawn with state colours"
+  },
+  {
+    "id": "bread_baking",
+    "folder": "bread",
+    "width": 192,
+    "height": 144,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept bun symbol redrawn with state colours"
+  },
+  {
+    "id": "bread_plain_done",
+    "folder": "bread",
+    "width": 192,
+    "height": 144,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept bun symbol redrawn with state colours"
+  },
+  {
+    "id": "bread_red_bean_done",
+    "folder": "bread",
+    "width": 192,
+    "height": 144,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "concept bun symbol redrawn with state colours"
+  },
+  {
+    "id": "bread_custard_done",
+    "folder": "bread",
+    "width": 192,
+    "height": 144,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "concept bun symbol redrawn with state colours"
+  },
+  {
+    "id": "bread_golden_done",
+    "folder": "bread",
+    "width": 192,
+    "height": 144,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "concept bun symbol redrawn with state colours"
+  },
+  {
+    "id": "equip_mold_plate",
+    "folder": "equip",
+    "width": 560,
+    "height": 200,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "equip_mold_plate_wide",
+    "folder": "equip",
+    "width": 760,
+    "height": 200,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "equip_oven_s2",
+    "folder": "equip",
+    "width": 600,
+    "height": 260,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept oven geometry and bun"
+  },
+  {
+    "id": "equip_plate",
+    "folder": "equip",
+    "width": 260,
+    "height": 90,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "equip_flipper_auto",
+    "folder": "equip",
+    "width": 220,
+    "height": 220,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "equip_dispenser",
+    "folder": "equip",
+    "width": 220,
+    "height": 300,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "equip_conveyor_oven",
+    "folder": "equip",
+    "width": 520,
+    "height": 240,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "equip_packing_line",
+    "folder": "equip",
+    "width": 560,
+    "height": 240,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_flame_00",
+    "folder": "fx",
+    "width": 160,
+    "height": 200,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_flame_01",
+    "folder": "fx",
+    "width": 160,
+    "height": 200,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_flame_02",
+    "folder": "fx",
+    "width": 160,
+    "height": 200,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_flame_03",
+    "folder": "fx",
+    "width": 160,
+    "height": 200,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_spark",
+    "folder": "fx",
+    "width": 64,
+    "height": 64,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept spark symbol"
+  },
+  {
+    "id": "fx_coin_pop",
+    "folder": "fx",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_steam",
+    "folder": "fx",
+    "width": 128,
+    "height": 128,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_confetti",
+    "folder": "fx",
+    "width": 32,
+    "height": 32,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "fx_golden_glow",
+    "folder": "fx",
+    "width": 640,
+    "height": 640,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "char_staff_idle",
+    "folder": "char",
+    "width": 220,
+    "height": 320,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept worker face and orange apron"
+  },
+  {
+    "id": "char_staff_bake_00",
+    "folder": "char",
+    "width": 220,
+    "height": 320,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "char_staff_bake_01",
+    "folder": "char",
+    "width": 220,
+    "height": 320,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "char_staff_badge",
+    "folder": "char",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "char_customer_a",
+    "folder": "char",
+    "width": 200,
+    "height": 280,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "concept customer hair and teal shirt"
+  },
+  {
+    "id": "char_customer_b",
+    "folder": "char",
+    "width": 200,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "char_customer_c",
+    "folder": "char",
+    "width": 200,
+    "height": 280,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_speech_bubble",
+    "folder": "ui",
+    "width": 420,
+    "height": 150,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_btn_primary",
+    "folder": "ui",
+    "width": 400,
+    "height": 170,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_btn_primary_pressed",
+    "folder": "ui",
+    "width": 400,
+    "height": 170,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_btn_disabled",
+    "folder": "ui",
+    "width": 400,
+    "height": 170,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_btn_secondary",
+    "folder": "ui",
+    "width": 300,
+    "height": 120,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_card_bg",
+    "folder": "ui",
+    "width": 470,
+    "height": 222,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_card_price_chip",
+    "folder": "ui",
+    "width": 409,
+    "height": 43,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_card_locked",
+    "folder": "ui",
+    "width": 470,
+    "height": 222,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_card_franchise",
+    "folder": "ui",
+    "width": 972,
+    "height": 110,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_hud_money_card",
+    "folder": "ui",
+    "width": 972,
+    "height": 143,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_progress_frame",
+    "folder": "ui",
+    "width": 972,
+    "height": 145,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_progress_track",
+    "folder": "ui",
+    "width": 16,
+    "height": 40,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_progress_fill",
+    "folder": "ui",
+    "width": 16,
+    "height": 40,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_heat_track",
+    "folder": "ui",
+    "width": 800,
+    "height": 24,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_heat_fill",
+    "folder": "ui",
+    "width": 16,
+    "height": 24,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_tabbar_bg",
+    "folder": "ui",
+    "width": 1080,
+    "height": 120,
+    "opaque": true,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_tab_dot_on",
+    "folder": "ui",
+    "width": 24,
+    "height": 24,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_tab_dot_off",
+    "folder": "ui",
+    "width": 24,
+    "height": 24,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_tab_underline",
+    "folder": "ui",
+    "width": 160,
+    "height": 8,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_popup_bg",
+    "folder": "ui",
+    "width": 800,
+    "height": 600,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "ui_dim",
+    "folder": "ui",
+    "width": 4,
+    "height": 4,
+    "opaque": true,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_won",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_fire",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_recipe",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_staff",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_expand",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_franchise",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_lock",
+    "folder": "icon",
+    "width": 64,
+    "height": 64,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_settings",
+    "folder": "icon",
+    "width": 48,
+    "height": 48,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_arrow_right",
+    "folder": "icon",
+    "width": 32,
+    "height": 32,
+    "opaque": false,
+    "priority": "P0",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_equip",
+    "folder": "icon",
+    "width": 96,
+    "height": 96,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_sound_on",
+    "folder": "icon",
+    "width": 64,
+    "height": 64,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  },
+  {
+    "id": "icon_sound_off",
+    "folder": "icon",
+    "width": 64,
+    "height": 64,
+    "opaque": false,
+    "priority": "P1",
+    "basis": "original vector shapes"
+  }
+]
