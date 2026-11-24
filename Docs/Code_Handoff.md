@@ -48,7 +48,7 @@
 
 ### 3.1 공통 전제
 
-- Canvas 1080×1920, 해상도 정책 FIT_WIDTH(기획 D1). 좌표는 `Resource_Manifest.md` §8.
+- Canvas 1080×1920, 해상도 정책 SHOW_ALL(기획 D1, 개정: 가로로 넓은 창에서 잘림 방지). 좌표는 `Resource_Manifest.md` §8.
 - **`GameController`는 씬에 한 개**, Canvas 또는 빈 루트 노드에 붙인다. `@executionOrder(-100)`이라 다른 View보다 먼저 초기화된다. View는 `GameController.I`로 접근하므로 View가 있는 씬에 Controller가 없으면 아무것도 갱신되지 않는다.
 - 모든 `@property`는 비어 있어도 예외 없이 동작한다(해당 표시만 생략). 툴팁에 연결 대상 에셋명을 적어 두었다.
 - Sprite `SLICED` 보더는 `Resource_Handoff.md`·`Resource_Manifest.md` §5 표의 9s 값을 쓴다(`ui_progress_track/fill`은 좌우 6px, `ui_card_price_chip`은 상하 18px로 수정된 값).
